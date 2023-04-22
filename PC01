@@ -1,0 +1,21 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <label>Ingrese correo</label>
+        <input type="email">
+        <br>
+        <label>Nombre</label>
+        <textarea>
+
+        </textarea>
+        <br>
+        <button>GitHub</button>
+
+
+    </body>
+    <footer>
+
+    </footer>
+</html>
